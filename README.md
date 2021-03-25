@@ -17,3 +17,4 @@ This is where I plan to collect math resources for myself and my students. These
 #### Proofs
 
 1. [List of theorems and postulates](https://www.eastauroraschools.org/cms/lib/NY19000901/Centricity/Domain/285/Geometry%20theorems%20and%20postulates.htm)
+2. [More postulates and theorems](http://www.ouchihs.org/ourpages/auto/2013/7/26/52822673/Geo-PostulatesTheorems-List.pdf)
