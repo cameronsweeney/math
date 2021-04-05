@@ -6,6 +6,8 @@ This is where I plan to collect math resources for myself and my students. These
 
 ## Pre-algebra
 
+1. Finding formula for area of circle via parallelogram: https://www.geogebra.org/m/Crz2gBjZ
+
 ## Algebra
 
 ## Geometry
@@ -22,3 +24,14 @@ This is where I plan to collect math resources for myself and my students. These
 
 https://www.youtube.com/watch?v=kXcG6oYh3i8
 https://www.youtube.com/watch?v=4mp9-O2G8hE
+
+
+# University level
+***
+
+## Multivariable Calculus
+
+1. Dot Product
+    + Dot product and duality - 3Blue1Brown: https://www.youtube.com/watch?v=LyGKycYT2v0
+    + Applications of the dot product - Zach Star: https://www.youtube.com/watch?v=TBpDMLCC2uY
+2. 
