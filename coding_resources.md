@@ -24,3 +24,10 @@ General-purpose coding/programming research
   * [FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_welcome)
   * [Book resource](https://www.reddit.com/r/learnprogramming/wiki/books)
 ***
+
+
+Javascript resources
+--------------------
++ https://www.mathjax.org/ - How to get LaTeX rendered via Javascript
++ https://togetherjs.com/
++ https://revealjs.com/ !!!!!!! This is what they use here when I convert to slides!
