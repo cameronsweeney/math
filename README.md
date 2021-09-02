@@ -7,6 +7,7 @@ This is where I plan to collect math resources for myself and my students. These
 ## Pre-algebra
 
 1. Finding formula for area of circle via parallelogram: https://www.geogebra.org/m/Crz2gBjZ
+2. [NYS 7th Grade Math state test questions, sorted by standard](https://www.buffaloschools.org/Page/40301)
 
 ## Algebra
 
