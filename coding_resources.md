@@ -29,5 +29,6 @@ General-purpose coding/programming research
 Javascript resources
 --------------------
 + https://www.mathjax.org/ - How to get LaTeX rendered via Javascript
+    > MathJax is highly modular on input and output. Use MathML, TeX, and ASCIImath as input and produce HTML+CSS, SVG, or MathML as output. 
 + https://togetherjs.com/
 + https://revealjs.com/ !!!!!!! This is what they use here when I convert to slides!
