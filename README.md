@@ -36,3 +36,10 @@ https://www.youtube.com/watch?v=4mp9-O2G8hE
     + Dot product and duality - 3Blue1Brown: https://www.youtube.com/watch?v=LyGKycYT2v0
     + Applications of the dot product - Zach Star: https://www.youtube.com/watch?v=TBpDMLCC2uY
 2. 
+
+## What is math?
+
++ ["How Does One Do Mathematical Research?" by Lee Lady](http://www.math.hawaii.edu/~lee/how-to.html)
++ [Non-Deductive Methods in Mathematics](https://plato.stanford.edu/entries/mathematics-nondeductive/)
++ [Non-deductive Logics in Mathematics](https://web.maths.unsw.edu.au/~jim/nondeductivelogic.html)
+  + British Journal for the Philosophy of Science 38 (1987), pp. 1-18
